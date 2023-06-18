@@ -36,3 +36,17 @@ La imagen generada se guardará con el nombre especificado en la variable name_a
 Aquí hay un ejemplo de una imagen generada utilizando el programa (Las imagenes de prueba estarán en la carpeta):
 
 [![Prueba](https://github.com/FacuFarias/AnaglyphGenerator/blob/main/prueba4.png "Prueba")](https://github.com/FacuFarias/AnaglyphGenerator/blob/main/prueba4.png "Prueba")
+
+Si pasamos un filtro polarizador rojo, podremos llegar a visualizar el mensaje oculto.
+
+[![Filtro_rojo](https://github.com/FacuFarias/AnaglyphGenerator/blob/main/prueba_filtro_rojo.png "Filtro_rojo")](https://github.com/FacuFarias/AnaglyphGenerator/blob/main/prueba_filtro_rojo.png "Filtro_rojo")
+
+# Contribuir
+Si deseas contribuir a este proyecto, puedes hacerlo de las siguientes maneras:
+
+- Reportando problemas o errores.
+- Mejorando la documentación.
+- Añadiendo nuevas características o mejorando las existentes.
+- Compartiendo tus experiencias y sugerencias.
+
+Por favor, siéntete libre de abrir un nuevo problema o enviar una solicitud de extracción con tus cambios.
